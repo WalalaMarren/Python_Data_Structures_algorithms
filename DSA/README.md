@@ -18,3 +18,12 @@ iteration of the outer loop so that the pattern displays appropriately
 4 4 4 4  
 5 5 5 5 5
 ```
+#### TWO
+Write a python code to print the following number patterns.
+```
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5
+```
