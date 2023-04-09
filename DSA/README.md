@@ -8,3 +8,13 @@ I will begin with the simplest of patterns,then intermediate level and finally t
 * Print the pattern i.e star or chars
 * Add a new line after each iteration of outer loop. Add a new line using the ```print()``` function after each
 iteration of the outer loop so that the pattern displays appropriately
+
+#### ONE
+*Write a python program to dipay the pattern of numbers shown below:*
+```
+1  
+2 2  
+3 3 3  
+4 4 4 4  
+5 5 5 5 5
+```
